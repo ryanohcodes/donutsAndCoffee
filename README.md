@@ -3,10 +3,6 @@ This my work for a coffee and donut shop.
 
 **Link to project:** https://coffeeanddonuts.netlify.app/
 
-## Preview:
-
-<img src="images/gif1.gif" width="100%" alt="Portfolio"/>
-
 
 ## How It's Made:
 
