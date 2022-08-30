@@ -10,7 +10,7 @@ This my work for a coffee and donut shop.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript,
+**Tech used:** HTML, CSS, JavaScript
 
 Just a simple website for a cafe made for a simple and clean user experience.
 
